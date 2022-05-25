@@ -1,0 +1,54 @@
+.navbar-brand {
+    margin: -23px 0px 0px 20px;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 550;
+    color: lightsalmon;
+}
+
+#main-content {
+    font-size: 50px;
+    color: lightblue;
+}   
+
+#header-nav {
+    background-color: skyblue;
+}
+
+#collapsable-nav #nav-list {
+    background-color: rgb(121, 180, 248);
+}
+
+.navbar-toggle {
+    background-color: rgb(169, 226, 236);
+}
+
+.menu {
+    font-size: 18px;
+    font-weight: 600;
+    color: ivory !important;
+}
+
+.block {
+    font-size: 22px;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    background-color: azure;
+}
+
+.description {
+    font-style: italic;
+}
+
+.title {
+    font-weight: 1000;
+}
+
+.subtitle {
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: darkorange;
+}
